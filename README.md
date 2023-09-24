@@ -5,5 +5,5 @@ Frontend Developer (ReactJS , NextJS)
 -------------------------------------
 
 *   🌍  I'm based in Bangkok , Thailand
-*   🖥️  See my portfolio at [PanomArt](http://panomartdev.vercel.app/)### Skills 
+*   🖥️  See my portfolio at [PanomArt](http://panomartdev.vercel.app/)
 
