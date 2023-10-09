@@ -17,6 +17,6 @@ My name is Panomporn Thepsai
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/panomartdev"><img src="https://github-readme-stats.vercel.app/api?username=PanomArt&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PanomArt's GitHub stats" /></a>
+<a href="http://www.github.com/panomartdev"><img src="https://github-readme-stats.vercel.app/api?username=panomartdev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="panomartdev's GitHub stats" /></a>
 
-<a href="https://github.com/panomartdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanomArt&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/panomartdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panomartdev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
