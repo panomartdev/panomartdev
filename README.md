@@ -2,12 +2,8 @@ Hi !
 My name is Panomporn Thepsai
 =========================================================================================================================================
 
-
-Frontend Developer (ReactJS , NextJS)
--------------------------------------
-
-*   🌍  I'm based in Bangkok , Thailand
-*   🖥️  See my portfolio at [PanomArt](http://panomartdev.vercel.app/)
+🌍  I'm based in Bangkok , Thailand
+🖥️  See my portfolio at [PanomArt](http://panomartdev.vercel.app/)
 
 ### Skills 
 <p align="left">
