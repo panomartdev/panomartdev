@@ -7,8 +7,8 @@ Frontend Developer
 * 🌍  I'm based in Bangkok , Thailand
 * 💻  See my portfolio at [PanomArt](http://panomartdev.vercel.app/)
 * 🖥️  Frontend Skills : HTML5, CSS, SCSS, Tailwind CSS, JavaScript, TypeScript, Reactjs, Nextjs, Vuejs, Nuxtjs
-* ⚙️    Backend Skills : Nodejs , Expressjs
-* ☁️    Experience in Vercel , Netlify
+* ⚙️    Backend Skills : Nodejs, Expressjs
+* ☁️    Deployment Tools : Vercel, Netlify
 
 ### Badges
 
