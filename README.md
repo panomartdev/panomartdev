@@ -1,4 +1,4 @@
-Hi,&nbsp;I am Panomporn Thepsai, Fullstack Developer 👋🏻
+Hi,&nbsp;I am Panomporn Thepsai 👋🏻
 =========================================================================================================================================
 
 * 🌍  I'm based in Bangkok , Thailand
